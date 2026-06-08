@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.zip
+.pytest_cache/
+AGENTS.md
+.codex/
+release/
+dist/
